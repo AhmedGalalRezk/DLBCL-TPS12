@@ -20,7 +20,12 @@ The study integrates single-cell and bulk transcriptomic datasets to:
 
 ## Graphical abstract
 
-![Graphical Abstract](Graphical_Abstract.png)
+![Graphical Abstract](Graphical%20abstract.png)
+
+---
+
+## Public datasets
+
 | Dataset   | Purpose                                 |
 |-----------|-----------------------------------------|
 | GSE182434 | Single-cell discovery                   |
