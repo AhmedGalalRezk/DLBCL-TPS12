@@ -20,8 +20,7 @@ The study integrates single-cell and bulk transcriptomic datasets to:
 
 ## Graphical abstract
 
-![Graphical Abstract](images/Picture1.png) \## Public datasets
-
+![Graphical Abstract](Graphical_Abstract.png)
 | Dataset   | Purpose                                 |
 |-----------|-----------------------------------------|
 | GSE182434 | Single-cell discovery                   |
@@ -67,3 +66,5 @@ If you use this repository, please cite the accompanying manuscript.
 Ahmed Galal Rezk
 
 Single-cell dissection reveals a conserved stress-adaptive proliferative program in diffuse large B-cell lymphoma.
+
+
