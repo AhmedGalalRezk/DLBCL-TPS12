@@ -26,24 +26,25 @@ The study integrates single-cell and bulk transcriptomic datasets to:
 
 ## Public datasets
 
-| Dataset   | Purpose                                 |
-|-----------|-----------------------------------------|
-| GSE182434 | Single-cell discovery                   |
-| GSE31312  | Bulk validation                         |
-| GSE10846  | Survival validation                     |
-| GSE32918  | External validation                     |
+| Dataset | Purpose |
+|---------|---------|
+| GSE182434 | Single-cell discovery |
+| GSE31312 | Bulk and molecular-context validation |
+| GSE10846 | Survival validation |
+| GSE32918 | External validation |
+| GSE23501 | Independent COO validation |
 | GSE193566 | Longitudinal diagnosis-relapse analysis |
-
+| NCI DLBCL cohort | Validation across published genetic subtypes |
 ## Workflow
 
-1.  Single-cell preprocessing
-2.  Malignant-cell identification
-3.  TPS12 derivation
-4.  Bulk validation
-5.  Survival analysis
-6.  Longitudinal validation
-7.  Comparison with published relapse discriminator
-
+1. Single-cell preprocessing
+2. Malignant-cell identification
+3. TPS12 derivation
+4. Bulk validation
+5. Survival analysis
+6. Molecular-context validation across COO and published genetic subtypes
+7. Longitudinal validation
+8. Comparison with published relapse discriminator
 ## Software
 
 R 4.6
